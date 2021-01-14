@@ -40,7 +40,7 @@ var eventLink = [
     "./Events/kneel.html",
     "./Events/shaving.html",
     "./",
-    "./"
+    "./game.html"
 ]
 
 var singleEventLink = ""
