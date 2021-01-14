@@ -1,0 +1,28 @@
+body {
+    max-height:1051px;
+    max-width: 1536px;
+    background-image: url('./1.JPG');
+    background-repeat: no-repeat;
+}
+
+.startTextContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 120px;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: gray;
+  }
