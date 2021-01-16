@@ -4,7 +4,7 @@ body {
     background-image: url('./3.JPG');
     background-repeat: no-repeat;
     background-position: 50% 0%;
-    background-color: #aca9a9bb;
+    background-color: rgb(59, 59, 59);
 }
 
 .startTextContainer {
@@ -15,6 +15,7 @@ body {
     font-size: 160px;
     font-family: cursive;
     font-weight: bolder;
+    color: rgb(59, 59, 59);
 }
 
 .navBar{
@@ -30,12 +31,12 @@ body {
 }
 
 a:link {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
 a:visited {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
