@@ -1,8 +1,10 @@
 body {
     max-height:auto;
     max-width: auto;
-    background-image: url('./1.JPG');
+    background-image: url('./3.JPG');
     background-repeat: no-repeat;
+    background-position: 50% 0%;
+    background-color: #aca9a9bb;
 }
 
 .startTextContainer {
