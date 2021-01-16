@@ -8,22 +8,20 @@ var eventArray = [
     "虐乳",
     "淫荡照片",
     "跪",
-    "剃毛",
     "狗狗真乖",
     "再来一次"
 ];
 
 var eventWeight = [
-    0.14,
-    0.05,
-    0.04,
-    0.05,
-    0.09,
-    0.24,
     0.16,
-    0.03,
+    0.06,
     0.05,
-    0.09,
+    0.06,
+    0.10,
+    0.25,
+    0.17,
+    0.03,
+    0.06,
     0.03,
     0.03
 ];
@@ -38,7 +36,6 @@ var eventLink = [
     "./Events/breastAbuse.html",
     "./Events/dirtyPhoto.html",
     "./Events/kneel.html",
-    "./Events/shaving.html",
     "./",
     "./game.html"
 ]
